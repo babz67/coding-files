@@ -1,2 +1,2 @@
 # coding-files
-All the coding files I have created for practicing coding.
+All the python files I have created for practicing python.
